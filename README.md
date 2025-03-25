@@ -1,16 +1,9 @@
-# onix-theme README
+# [Onix](https://marketplace.visualstudio.com/items?itemName=iagobruno.onix-theme)
 
-## Working with Markdown
+A dark theme for Visual Studio Code.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+[![Version](https://vsmarketplacebadges.dev/version/iagobruno.onix-theme.png)](https://marketplace.visualstudio.com/items?itemName=iagobruno.onix-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/iagobruno.onix-theme)
+[![Installs](https://vsmarketplacebadges.dev/installs/iagobruno.onix-theme.png)](https://marketplace.visualstudio.com/items?itemName=iagobruno.onix-theme)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+![ ](preview.png)
